@@ -11,8 +11,6 @@
 
 - 🌱 Obecnie uczę się **C#**
 
-- 👨‍💻 Wszystkie moje projekty znajdują się na [Githubie](https://github.com/DragosOficial?tab=repositories](https://github.com/DragosOficial?tab=repositories)
-
 - 💬 Zapytaj mnie o **Wszystko co zechcesz**
 
 - 📫 Jak się ze mną skontaktować? **dawfort@gmail.com**
