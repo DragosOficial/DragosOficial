@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dragosnowhere" target="blank"><img src="https://img.shields.io/twitter/follow/dragosnowhere?logo=twitter&style=for-the-badge" alt="dragosnowhere" /></a> </p>
 
-- 🔭 Obecnie pracuje na [SuperHeros](https://github.com/DragosOficial/SuperHeros)
+- 🔭 Obecnie pracuje na [SuperHeroes](https://github.com/DragosOficial/SuperHeros)
 
 - 🌱 Obecnie uczę się **C#**
 
